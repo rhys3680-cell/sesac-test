@@ -18,3 +18,6 @@ def solution3(n):
 
 
 print(solution(101))
+
+
+## 1~100까지의 수 중에 홀수인 것 더해서 반환
